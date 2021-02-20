@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "projeto03-injection"
+  "defaultProject": "projeto03-injection",
+  "cli": {
+    "analytics": false
+  }
 }
